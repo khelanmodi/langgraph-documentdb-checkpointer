@@ -1,6 +1,6 @@
 # LangGraph Azure DocumentDB Checkpointer Test
 
-This project demonstrates using LangGraph's MongoDB checkpointer with Azure Cosmos DB's DocumentDB API for persistent agent conversations. It builds an interactive book-finding agent that uses vector search to recommend books based on descriptions.
+This project demonstrates using LangGraph's MongoDB checkpointer with Azure DocumentDB for persistent agent conversations. It builds an interactive book-finding agent that uses vector search to recommend books based on descriptions.
 
 ## Features
 
