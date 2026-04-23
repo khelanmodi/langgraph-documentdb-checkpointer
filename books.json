@@ -1,0 +1,252 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "Set in the racially tense Depression-era South, young Scout Finch watches her father, lawyer Atticus, defend a Black man falsely accused of rape against a prejudiced town. Through her innocent eyes, the story delves into moral growth, empathy, and the sins of racism, with the reclusive Boo Radley adding layers of compassion and misunderstanding. It remains a cornerstone of American literature for its poignant critique of injustice and celebration of human decency."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "In a terrifying dystopian future, the totalitarian regime of Oceania, led by the enigmatic Big Brother, employs constant surveillance, historical revisionism, and the suppression of independent thought to control the populace. Winston Smith, a low-ranking member of the Party, begins a secret rebellion by keeping a diary and falling in love, only to face the brutal reality of the Thought Police. The novel is a chilling warning against totalitarianism and the erosion of truth."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "Set in the Roaring Twenties, this novel follows the mysterious millionaire Jay Gatsby and his obsessive pursuit of the beautiful former debutante Daisy Buchanan. Through the eyes of narrator Nick Carraway, the story explores themes of decadence, idealism, resistance to change, and the tragic disillusionment of the American Dream. It stands as a cynical yet poignant critique of the Jazz Age's superficiality and moral decay."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic comedy of manners set in Regency England, centering on the spirited and intelligent Elizabeth Bennet and her complicated relationship with the wealthy, aloof Mr. Darcy. As they navigate social standing, family pressure, and the marriage market, both must overcome their initial judgments—her prejudice and his pride—to realize their true feelings. The novel is celebrated for its wit, romantic tension, and social commentary."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "Narrated by the cynical and alienated teenager Holden Caulfield, this novel follows his two-day wandering through New York City after being expelled from prep school. It is a quintessential exploration of teenage angst, the loss of innocence, and the struggle to find authenticity in a 'phony' adult world. Holden's unique voice and struggle for connection have resonated with generations of readers."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "Bilbo Baggins, a comfort-loving hobbit, is swept away from his quiet life by the wizard Gandalf and a company of thirteen dwarves to reclaim their lost kingdom from the dragon Smaug. This fantasy adventure introduces the world of Middle-earth, exploring themes of courage, friendship, and the discovery of hidden strength. It serves as the prelude to the epic Lord of the Rings saga."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "Set in a future society where books are outlawed and 'firemen' burn any that are found, the story follows Guy Montag, a fireman who begins to question his role. As he encounters a free-spirited neighbor and witnesses the emptiness of his conformist world, he embarks on a dangerous journey to preserve knowledge and humanity. The book is a powerful commentary on censorship and the effects of mass media on society."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "An epic high-fantasy saga that follows the quest of the hobbit Frodo Baggins to destroy the One Ring, an artifact of immense power created by the Dark Lord Sauron. Accompanied by a fellowship of men, elves, dwarves, and hobbits, Frodo traverses Middle-earth to save the world from absolute darkness. The trilogy explores deep themes of power, sacrifice, corruption, and the resilience of the small against the mighty."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "description": "This Gothic bildungsroman tells the story of an orphaned governess, Jane Eyre, who overcomes a harsh childhood to find work at Thornfield Hall. There, she falls in love with her brooding employer, Edward Rochester, but discovers a dark secret hidden within the manor that threatens their happiness. The novel is revolutionary for its intense focus on the moral and spiritual development of its fiercely independent female protagonist."
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "description": "A satirical allegorical novella that tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. However, the rebellion is betrayed, and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon. It serves as a biting critique of the Russian Revolution and the corruption of power."
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "description": "Set in Georgia during the American Civil War and Reconstruction era, this sweeping historical romance follows the headstrong Scarlett O'Hara as she struggles to save her family plantation, Tara. While navigating the ravages of war, she engages in a turbulent relationship with the dashing Rhett Butler. The novel explores themes of survival, love, and the painful transformation of the American South."
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "description": "This narrative follows Amir, a young boy from the Wazir Akbar Khan district of Kabul, and his complex friendship with Hassan, the son of his father's servant. Against the backdrop of a changing Afghanistan—from the fall of the monarchy to the rise of the Taliban—Amir must confront his past betrayal and seek redemption. It is a powerful story of guilt, father-son relationships, and the price of atonement."
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "description": "Narrated by Death, this novel is set in Nazi Germany and follows Liesel Meminger, a young foster girl who steals books to survive the horrors of the war. She shares her stolen treasures with her neighbors and the Jewish man hiding in her basement, forming a deep bond through the power of words. The story is a poignant examination of the beauty and brutality of humanity."
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "description": "A series of seven fantasy novels set in the magical realm of Narnia, a world of talking animals, mythical beasts, and magic, ruled by the great lion Aslan. The stories follow various children who are transported from the real world to Narnia to play central roles in its history and battles against evil. The series is renowned for its Christian allegory and timeless themes of good versus evil."
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "description": "A tragic play about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. Set in Verona, the story explores the intensity of young love and the destructive power of hatred and vengeance. It remains the archetypal love story in Western literature, celebrated for its poetic language and dramatic exploration of fate."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the global phenomenon introduces Harry Potter, an orphan who discovers on his eleventh birthday that he is a wizard. Whisked away to Hogwarts School of Witchcraft and Wizardry, he makes close friends and discovers the truth about his parents' deaths at the hands of the dark wizard Voldemort. It is a story of magic, friendship, and the triumph of love over evil."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "description": "Set during the Great Depression, this novel focuses on the Joads, a poor family of tenant farmers driven from their Oklahoma home by drought and economic hardship. They set out for California along with thousands of other 'Okies' in search of jobs, land, and dignity. The book is a stirring indictment of the harsh conditions faced by migrant workers and a tribute to the endurance of the human spirit."
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "description": "This semi-autobiographical novel follows the lives of the four March sisters—Meg, Jo, Beth, and Amy—as they grow from childhood to womanhood in Civil War-era New England. Dealing with poverty, societal expectations, and personal ambitions, the sisters rely on their bond and their mother's guidance. It is a timeless coming-of-age story celebrating family, domesticity, and female independence."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "description": "A dark and passionate tale of the intense, almost demonic love between Catherine Earnshaw and Heathcliff, a foundling adopted by Catherine's father. Their destructive relationship wreaks havoc on themselves and those around them on the desolate Yorkshire moors. The novel is a masterpiece of Gothic fiction, exploring themes of revenge, class conflict, and the supernatural."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A dystopian novel set in a futuristic World State where citizens are environmentally engineered into an intelligence-based social hierarchy. The society anticipates the developments in reproductive technology, sleep-learning, and psychological manipulation to keep the population docile and 'happy.' The story challenges the idea that stability and comfort are worth the loss of individuality and freedom."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "description": "Set in the near-future Republic of Gilead, a theocratic military dictatorship formed within the borders of the former United States. Offred is a Handmaid, a class of women kept for reproductive purposes by the ruling class in an era of declining births. The novel is a terrifying exploration of female subjugation and the means by which a society can strip away human rights."
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "description": "A group of British schoolboys are stranded on an uninhabited island and attempt to govern themselves, with disastrous results. As the trappings of civilization fall away, the boys descend into savagery and violence, revealing the dark side of human nature. The novel is a psychological allegory about the conflict between the impulse toward civilization and the instinct for barbarism."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "This philosophical novel tells the story of Santiago, an Andalusian shepherd boy who dreams of a treasure buried in the Egyptian pyramids. His journey takes him from Spain to Tangier and across the Egyptian desert, where he meets an alchemist. The story is a metaphor for finding one's destiny, listening to one's heart, and understanding that the journey matters more than the destination."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "A psychological drama revolving around Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who formulates a plan to kill an unscrupulous pawnbroker for her money. He argues that with the money he can perform good deeds to counterbalance the crime, while ridding the world of a 'vermin.' The novel explores his subsequent mental anguish, guilt, and eventual path toward redemption."
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "description": "The actual diary of a teenage Jewish girl who hid from the Nazis for two years in a 'Secret Annex' in Amsterdam during World War II. Anne documents her thoughts, feelings, and the daily struggles of life in confinement with honesty and wit. It stands as one of the most powerful and enduring testimonies to the human spirit in the face of the Holocaust."
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "description": "A direct sequel to The Adventures of Tom Sawyer, this novel follows Huck Finn and the runaway slave Jim as they raft down the Mississippi River. Through their journey, Twain delivers a scathing satire on entrenched attitudes, particularly racism and slavery, in the pre-Civil War South. It is celebrated for its vernacular voice and moral complexity."
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "In the ruins of a future North America lies the nation of Panem, where the Capitol forces twelve districts to send a boy and girl to fight to the death on live TV. Katniss Everdeen volunteers to take her younger sister's place, entering a brutal game of survival. The book explores themes of inequality, authoritarianism, and the spectacle of violence."
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "description": "A fast-paced mystery thriller that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum. They uncover a trail of clues hidden in the works of Leonardo da Vinci that leads to a religious mystery protected by a secret society for two thousand years. The novel blends art history, conspiracy theories, and action."
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "description": "The multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founds the town of Macondo. The novel blends the magical with the real, chronicling the rise and fall of the town through wars, disasters, and family tragedies. It is the seminal work of magical realism, exploring themes of time, solitude, and the cyclical nature of history."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "description": "A philosophical novel about a young man, Dorian Gray, who sells his soul to ensure that his portrait ages while he remains forever young and beautiful. As he indulges in a life of hedonism and sin, the painting becomes increasingly grotesque, reflecting the corruption of his soul. The book examines the relationship between art, beauty, and morality."
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "description": "Set during World War II, this satirical novel follows Captain John Yossarian, a U.S. Army Air Forces B-25 bombardier. Yossarian is trapped by a bureaucratic paradox known as 'Catch-22,' which states that a man is considered insane if he willingly continues to fly dangerous combat missions, but if he makes a formal request to be removed from duty, he is proven sane and therefore ineligible to be relieved. It is a masterpiece of absurdity and anti-war sentiment."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "description": "Set after the American Civil War, the story follows Sethe, a former slave who escaped to Ohio but remains haunted by the trauma of her past and the ghost of her baby, whom she killed to save from a life of slavery. The arrival of a mysterious young woman named Beloved forces Sethe to confront her painful history. The novel is a profound examination of the psychological legacy of slavery."
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "description": "A satirical anti-war novel centering on Billy Pilgrim, an optometrist who becomes 'unstuck in time.' He travels back and forth through different moments of his life, including his time as a prisoner of war during the firebombing of Dresden in World War II. The non-linear narrative and sci-fi elements highlight the absurdity and tragedy of war."
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "description": "This existentialist novel follows Meursault, an indifferent French Algerian who kills an Arab man on a beach. During his trial, he is condemned not so much for the murder, but for his emotional detachment and refusal to conform to societal norms, such as crying at his mother's funeral. The book explores the absurdity of human existence and the indifference of the universe."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "The narrative of the sailor Ishmael and the obsessive quest of Captain Ahab for revenge on Moby Dick, the giant white sperm whale that bit off his leg. The novel is a dense and complex work that delves into whaling technology, philosophy, religion, and the struggle of man against the overwhelming power of nature. It is widely considered one of the Great American Novels."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "description": "The story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Horrified by his creation, he abandons it, leading the creature to seek revenge against his creator after facing rejection from society. The novel is considered the first true science fiction story and explores themes of ambition, responsibility, and what it means to be human."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "description": "An epistolary novel that tells the story of Count Dracula's attempt to move from Transylvania to England to spread the undead curse, and of the battle between Dracula and a small group of men and women led by Professor Abraham Van Helsing. It established many conventions of subsequent vampire fantasy and explores themes of sexuality, colonialism, and the clash between modernity and ancient evil."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "description": "A complex novel that intertwines the story of the tragic affair between the aristocratic Anna Karenina and Count Vronsky with the story of the socially awkward but compassionate Konstantin Levin. Set against the backdrop of 19th-century Russia, it explores themes of betrayal, faith, family, and the contradictions of society. Tolstoy himself considered it his first true novel."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "A monumental work that chronicles the history of the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families. It blends historical narrative with philosophical chapters on the nature of history and free will. The novel is famous for its massive scope and realistic depiction of 19th-century Russian life."
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "description": "A philosophical novel set in 19th-century Russia that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, judgment, and reason, set against a modernizing Russia, with a plot which revolves around the subject of patricide. It was Dostoevsky's final novel."
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "description": "The story of the orphan Pip, writing his life from his early days of childhood until adulthood. Pip attempts to become a gentleman after receiving a fortune from a mysterious benefactor. The novel features some of Dickens' most memorable scenes and characters, including the eccentric Miss Havisham and the convict Magwitch, while exploring themes of class, ambition, and redemption."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "description": "A young girl named Alice falls through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures like the Cheshire Cat, the Mad Hatter, and the Queen of Hearts. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered one of the best examples of the literary nonsense genre."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "description": "Set in London and Paris before and during the French Revolution, the novel depicts the plight of the French peasantry demoralized by the French aristocracy, and the corresponding brutality of the revolutionaries. It follows the lives of several characters, including Charles Darnay and Sydney Carton, leading to themes of resurrection, sacrifice, and the possibility of redemption."
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "description": "The story follows a hidalgo, Alonso Quixano, who reads so many chivalric romances that he loses his mind and decides to become a knight-errant to revive chivalry and serve his nation, under the name Don Quixote. Accompanied by his simple squire, Sancho Panza, his adventures are often humorous but deeply poignant, exploring the boundary between reality and illusion."
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "description": "An epic historical novel that follows the lives and interactions of several characters, particularly the ex-convict Jean Valjean and his experience of redemption. Set in early 19th-century France, it culminates in the June Rebellion in Paris. The novel examines the nature of law and grace, the history of France, politics, moral philosophy, and the nature of romantic and familial love."
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "description": "An adventure novel centering on Edmond Dantès, a young sailor who is falsely accused of treason and imprisoned without trial in the Château d'If. After escaping and acquiring a fortune, he sets about exacting revenge on those responsible for his imprisonment. It is a classic tale of betrayal, hope, and the corrupting nature of vengeance."
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "description": "This novel portrays the lives of the 'Lost Generation,' a group of American and British expatriates who travel from Paris to the Festival of San Fermín in Pamplona to watch the running of the bulls. Narrated by Jake Barnes, a man rendered impotent by a war wound, the story explores themes of disillusionment, masculinity, and the aimlessness of post-war life."
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "description": "A novella that tells the story of George Milton and Lennie Small, two displaced migrant ranch workers, who move from place to place in California in search of new job opportunities during the Great Depression. They dream of owning their own piece of land, but Lennie's intellectual disability and strength lead to tragedy. It touches on themes of friendship, loneliness, and the impossibility of the American Dream."
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "description": "An epistolary novel set in the American South, focusing on the life of Celie, an African American woman living in poverty and abuse. Through her letters to God and her sister Nettie, Celie navigates a life of oppression but eventually finds her voice and self-worth with the help of the strong women around her. The book addresses racism, sexism, and the power of female resilience."
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "description": "A fantasy adventure novel about Pi Patel, an Indian boy who survives 227 days after a shipwreck while stranded on a lifeboat in the Pacific Ocean with a Bengal tiger named Richard Parker. The story explores issues of spirituality and practicality, and asks the reader to choose between two versions of the truth. It is a meditation on faith, storytelling, and survival."
+  }
+]
